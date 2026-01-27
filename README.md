@@ -1,15 +1,16 @@
-# Linux System Basics Lab
+# Linux Lab
 
 ## What this is
-Hands-on Linux practice covering systemctl, services, logs, and basic commands.
+This is a hands-on Linux lab where I practice Linux basics.
 
 ## What I learned
-- Navigating Linux directories
-- Using systemctl to manage services
-- Reading logs with journalctl
+- Navigating directories
+- Using systemctl
+- Inspecting logs
+- Basic terminal commands
 
-## Tools used
-- Linux (Ubuntu)
+## Tools Used
+- Ubuntu Linux
 - Terminal
 - GitHub
 
