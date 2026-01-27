@@ -1,0 +1,3 @@
+Day 3:
+Learning Linux system strucuture. 
+Goal: understand folders and commands.
