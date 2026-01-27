@@ -1,0 +1,4 @@
+Day 8:
+Learned how to inspect running services with systemclt.
+Understood pager mode (END) and how to exit with q.
+Practiced identifying when I am on the command line.
