@@ -6,3 +6,5 @@ Ran "ls /" to explore system root.
 /etc = system configuration files
 /var = logs and changing data
 /bin = basic system commands 
+
+Day 5: Learned how users and permissions work.
