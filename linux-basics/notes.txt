@@ -1,3 +1,8 @@
-Day 3:
-Learning Linux system strucuture. 
-Goal: understand folders and commands.
+Day 4: 
+Ran "ls /" to see system root folders.
+Ran "ls /" to explore system root.
+
+/home = user folders
+/etc = system configuration files
+/var = logs and changing data
+/bin = basic system commands 
