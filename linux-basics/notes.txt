@@ -8,3 +8,7 @@ Ran "ls /" to explore system root.
 /bin = basic system commands 
 
 Day 5: Learned how users and permissions work.
+Used whoami and id to check my user.
+Viewed /etc/passwd for system users.
+Created a new user: employee1.
+Swtiched into employee1 home folder.
