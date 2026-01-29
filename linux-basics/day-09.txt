@@ -1,0 +1,5 @@
+Day 9:
+Learned that Linux runs background services (daemons).
+Used systemctl to list running services.
+Used systemctl status <service> to view details (active/running, PID, logs).
+Exited the status screen with q.
