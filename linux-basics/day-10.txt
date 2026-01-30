@@ -1,0 +1,5 @@
+ 10:
+Used ps aux and grep to find processes.
+Started test processes with sleep 1000.
+Learned that Ctrl+Z pauses a process (T = stopped).
+Used kill, and then kill -9 to force stop processes.
