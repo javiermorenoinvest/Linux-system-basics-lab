@@ -1,0 +1,6 @@
+Entry 11:
+Restructured my GitHub repo to use a clean entries/ folder.
+Renamed all previous day notes into entry-XX format.
+Learned to use git mv to move and rename files while keeping history.
+Better understanding of working directories and relative paths.
+Created a repeatable system for documenting learning.
