@@ -1,0 +1,7 @@
+Entry 12:
+Worked on installing Windows in a virtual machine.
+Learned how disk partitions work during OS installation.
+Key rule: always install the OS on the largest Primary partition.
+In my case, Disk 0 Partition 3 (99.1 GB) was the correct choice.
+This helped me understand how storage is allocated in VMs.
+
