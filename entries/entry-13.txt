@@ -1,0 +1,9 @@
+Entry 13 — Disk Usage Commands
+
+df -h
+Shows disk usage for drives in human readable format.
+
+du -h
+Shows folder and file sizes.
+
+These commands help administrators monitor storage usage and prevent disk full issues.
