@@ -1,0 +1,4 @@
+Entry 14
+Downloaded Packet Tracer and ran Jeremy's It lab CCNA.
+Created a Network with 2 Pcs, 2 Cisco 2911 routers, 2 Cisco 2960 switches, 2 Cisco 5505 firewalls, and 2 Serves.
+As well as showing a "Attacker" connected to the internet. One router was placed inside the Router while the other was outside showing the different placements a firewall can be at. 
