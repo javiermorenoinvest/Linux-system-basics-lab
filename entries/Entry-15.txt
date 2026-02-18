@@ -1,0 +1,5 @@
+Entry 15
+Created a Jira account.
+Created a ticket for Intranet issue and gave it a priority.
+Also created a new field (Componet) in the ticket work flow.
+Assigned it to myself and move to "done".
