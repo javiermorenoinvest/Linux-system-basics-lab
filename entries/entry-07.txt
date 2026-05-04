@@ -1,4 +1,0 @@
-Day 7:
-Learned how to change file ownership using chown.
-Tested access with another user.
-Used sudo for admin actions.
